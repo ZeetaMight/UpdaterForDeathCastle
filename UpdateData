@@ -31,3 +31,18 @@ Bag of Goodies: Shop price decreased: 500 > 300
 
 *Monsters
 Vampire: Damage decreased: 350 > 290
+
+
+
+Death Castle Test
+[Version] 1.3
+
+Changes:
+
+*Game general:
+
+FIX: Buff and States doesn't apply correctly
+
+NEW: Option Menu Layout
+NEW: Buff and States turn indicators
+NEW: Battle Layout
