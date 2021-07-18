@@ -14,3 +14,18 @@ NEW: Added Currency count on HUD
 Bat: Life decreased: 300 > 200, Exp increased: 25 > 35
 Minotaur: Exp given increased: 100 > 150
 Gargoyle: Exp given increased: 150 > 300
+
+
+
+Death Castle Test
+[Version] 1.2
+
+Changes:
+
+*Game general:
+
+NEW: Added Encyclopedia/Bestiary
+NEW: Added Blue Magic Orb to Shop 
+
+*Monsters
+Vampire: Damage decreased: 350 > 290
