@@ -3,14 +3,14 @@ Death Castle Test
 
 Changes:
 
-*Game general:
+*GAME*
 Unleashed Skills No longer cost MP, Chance to Trigger: -5%
 Quest: Save the Soldiers: Reward 4 Exp given increased: 300 > 500
 Quest: Axel Green Balls: Reward 3 Exp given increased: 150 > 300
 NEW: Added NPC Healer
 NEW: Added Currency count on HUD
 
-*Monsters
+*MONSTERS*
 Bat: Life decreased: 300 > 200, Exp increased: 25 > 35
 Minotaur: Exp given increased: 100 > 150
 Gargoyle: Exp given increased: 150 > 300
@@ -22,14 +22,14 @@ Death Castle Test
 
 Changes:
 
-*Game general:
+*GAME*
 
 NEW: Shop Menu Layout
 NEW: Added Blue Magic Orb to Shop
 NEW: Added Encyclopedia/Bestiary
 Bag of Goodies: Shop price decreased: 500 > 300
 
-*Monsters
+*MONSTERS*
 Vampire: Damage decreased: 350 > 290
 
 
@@ -39,10 +39,34 @@ Death Castle Test
 
 Changes:
 
-*Game general:
+*GAME*
 
 FIX: Buff and States doesn't apply correctly
 
 NEW: Option Menu Layout
 NEW: Buff and States turn indicators
 NEW: Battle Layout
+
+
+
+Death Castle Test
+[Version] 1.4
+
+Changes:
+
+*GAME*
+
+NEW: Game Resolution 816x624 > 1280x720
+NEW: Select Enemy/Allies cursor
+
+*CLASSES*
+BALANCE: Mystic Class increased Magic Attack curve
+BALANCE: Ninja Class increased Magic Attack curve
+
+*ITEMS*
+BALANCE: Gladiator Loot Boxes increased drop chance
+
+*MONSTERS*
+
+NEW: Zombie - Location - Death Castle 1F
+Minotaur: increased Exp given 150 > 200
