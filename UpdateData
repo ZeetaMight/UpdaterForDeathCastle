@@ -80,16 +80,23 @@ Changes:
 
 *GAME*
 NEW: Added Elemental Reflection, Absorb and Resistance
-NEW QUEST: Volcano, Jim The Farmer, Mini Red Ore
-NEW NPC's: Mini (Quest giver), Assistant (Armor and Weapon Shop), Jim The Farmer, Old Lady.
+NEW QUESTS: Volcano Quest, Jim The Farmer, Mini Red Ore
+NEW NPC: Mini (Quest giver), 
+NEW NPC: Sandor (Rare Item Shop)
+NEW NPC: Assistant (Armor and Weapon Shop) 
+NEW NPC: Jim The Farmer
+NEW NPC: Old Lady
+NEW NPC: Funebris
 
 *CLASSES*
 BALANCE: Mystic Class increased Agility curve
 BALANCE: Samurai Class increased Agility curve
+SPELL: The Protector (Samurai)
 
 *ITEMS*
 NEW: Red Shield
 NEW: Golden Sword
+NEW: Magma Coat
 NEW: Magma Shield
 NEW: Magma Blade
 NEW: Magma Staff
@@ -97,12 +104,16 @@ NEW: MK2 Sniper
 NEW: Magma Armor
 NEW: Corrupted Magma Armor
 NEW: Blessed Magma Armor
+NEW: Blessed Magma Coat
+NEW: Medium Hybrid Potion
+NEW: Astronis Artifact
 
 *MONSTERS*
 
 NEW: Snake
+NEW: Scorpion
 NEW: Firespirit
 NEW: Magmaspirit
 NEW: Fire Mage
-NEW: Volcano Dragon
 NEW: Lava Hound
+NEW: Dragon Lord
