@@ -74,7 +74,7 @@ Minotaur: increased Exp given 150 > 200
 
 
 The Legend of The 4 Heroes Test
-[Version] 2.0 (In Progress)
+[Version] 2.0
 
 Changes:
 
@@ -91,10 +91,10 @@ NEW NPC: Funebris
 *CLASSES*
 BALANCE: Mystic Class increased Agility curve
 BALANCE: Samurai Class increased Agility curve
-SPELL: The Protector (Samurai)
-SPELL: Imperius Wrath (Mystic)
-SPELL: Blood Shot (Shooter)
-SPELL: Fūton: Rasen Shuriken (Ninja
+NEW SPELL: The Protector (Samurai)
+NEW SPELL: Imperius Wrath (Mystic)
+NEW SPELL: Blood Shot (Shooter)
+NEW SPELL: Fūton: Rasen Shuriken (Ninja
 
 *ITEMS*
 NEW: Red Shield
@@ -120,3 +120,23 @@ NEW: Magmaspirit
 NEW: Fire Mage
 NEW: Lava Hound
 NEW: Dragon Lord
+
+
+
+The Legend of The 4 Heroes Test
+[Version] 2.1
+
+Changes:
+
+*GAME*
+NEW: Small loot zone in Death Castle 2F
+
+*CLASSES*
+BALANCE: Spell Ninja Cuts now do more damage.
+BALANCE: 
+
+
+*MONSTERS*
+
+BALANCE: Gargoyle HP Decreased 1300 > 1000
+ITEM DROP: Gargoyle NO longer drops Gloves Loot Box, instead drops Gun Loot Box
