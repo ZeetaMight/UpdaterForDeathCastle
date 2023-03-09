@@ -121,10 +121,10 @@ NEW: Fire Mage
 NEW: Lava Hound
 NEW: Dragon Lord
 
-
+--------------------------------------------
 
 The Legend of The 4 Heroes Test
-[Version] 2.1
+[Version] 3.0
 
 Changes:
 
@@ -135,8 +135,14 @@ NEW: Small loot zone in Death Castle 2F
 BALANCE: Spell Ninja Cuts now do more damage.
 BALANCE: 
 
+*ITEMS*
+NEW:
+BALANCE: Shotgun Attack reduced 20->15
+BALANCE: You cant longer equip shield with Shotgun, MK2 Sniper, Katana, Dragon Flame (Fire), Any Bow
+
 
 *MONSTERS*
 
 BALANCE: Gargoyle HP Decreased 1300 > 1000
 ITEM DROP: Gargoyle NO longer drops Gloves Loot Box, instead drops Gun Loot Box
+
